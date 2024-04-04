@@ -1,6 +1,6 @@
 header{ /*classe cabecalho criada no HTML*/
-    background-color: #383d58; /*cor do fundo*/
-    color: white; /*cor da fonte*/
+    background-color: #ffffff; /*cor do fundo*/
+    color: rgb(255, 0, 0); /*cor da fonte*/
 }
 body{ /*fonte utilizada em todo texto da página*/
     font-family: "Poppins", sans-serif; /*estilo da fonte*/
@@ -9,7 +9,7 @@ body{ /*fonte utilizada em todo texto da página*/
     width: 25%; /*largura da imagem do cabeçalho*/
 }
 .cabecalho{ /*classe cabecalho no HTML*/
-    background-color: #383d58; 
+    background-color: #0026ff; 
     color: white;
     display: flex; /*organiza os elementos lado a lado, só muda de linha se ocupar todo o espaço*/
     justify-content: space-around; /*justifica o conteúdo, space-around=espaço ao redor, cria margens iguais entre os elemtnos da linha*/
